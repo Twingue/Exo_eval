@@ -1,4 +1,4 @@
-var nombre = parseInt(window.prompt (" Entrez un nombre dont vous voulez afficher la table")); 
+var nombre = parseInt(window.prompt (" Entrez un nombre dont vous voulez afficher la table de multiplication")); 
 
 function tableMultiplication (nombre){
 for(let i = 1; i <= 10; i++) {

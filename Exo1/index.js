@@ -3,7 +3,7 @@ var a=0;
 var v=0;
 var personnes;
 do {
-  personnes = window.prompt("Entrez votre age");
+  personnes = window.prompt("Entrez un âge afin de compter les personnes jeunes,adultes et vieux");
   if ( personnes <20) {
     j++;
     console.log(personnes);
